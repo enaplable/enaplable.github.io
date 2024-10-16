@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://enaplable.github.io/sitemap.html.gz
+Sitemap: https://enaplable.github.io/app/sitemap.html.gz
+Sitemap: https://enaplable.github.io/assets/sitemap.html.gz
+Sitemap: https://enaplable.github.io/css/sitemap.html.gz
+Sitemap: https://enaplable.github.io/includes/sitemap.html.gz
+Sitemap: https://enaplable.github.io/item/sitemap.html.gz
+Sitemap: https://enaplable.github.io/src/sitemap.html.gz
